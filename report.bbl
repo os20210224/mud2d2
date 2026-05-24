@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{isricAfricaSoil}
+{A}frica {S}oil {I}nformation {S}ervice ({A}f{S}{I}{S}) --- isric.org.
+\newblock
+  \url{https://isric.org/projects/africa-soil-information-service-afsis}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{kaggleAfricaSoil}
+{A}frica {S}oil {P}roperty {P}rediction {C}hallenge --- kaggle.com.
+\newblock \url{https://www.kaggle.com/competitions/afsis-soil-properties}.
+\newblock [Accessed 23-05-2026].
+
+\bibitem{sklearnReferencex2014}
+{A}{P}{I} {R}eference \&\#x2014; scikit-learn 1.8.0 documentation - sklearn ---
+  sklearn.org.
+\newblock \url{https://sklearn.org/stable/api/index.html}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{wikipediaInfraredSpectroscopy}
+{I}nfrared spectroscopy - {W}ikipedia --- en.wikipedia.org.
+\newblock \url{https://en.wikipedia.org/wiki/{I}nfrared\_spectroscopy}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{nasaMODIS}
+{M}{O}{D}{I}{S} {W}eb --- modis.gsfc.nasa.gov.
+\newblock \url{https://modis.gsfc.nasa.gov/}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{opentopographyOpenTopographyShuttle}
+{O}pen{T}opography - {S}huttle {R}adar {T}opography {M}ission ({S}{R}{T}{M}
+  {G}{L}1) {G}lobal 30m --- portal.opentopography.org.
+\newblock
+  \url{https://portal.opentopography.org/raster?opentopo{I}{D}={O}{T}{S}{R}{T}{M}.082015.4326.1}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{brukerReflectanceInfrared}
+{R}eflectance {I}nfrared ({F}{T}-{I}{R}) {S}pectroscopy --- bruker.com.
+\newblock
+  \url{https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-ir-routine-spectrometer/what-is-ft-ir-spectroscopy/reflectance-infrared-spectroscopy.html}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{nasaShuttleRadar}
+{S}huttle {R}adar {T}opography {M}ission ({S}{R}{T}{M}) | {N}{A}{S}{A}
+  {E}arthdata --- earthdata.nasa.gov.
+\newblock \url{https://www.earthdata.nasa.gov/data/instruments/srtm}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{wikipediaTopographicWetness}
+{T}opographic wetness index - {W}ikipedia --- en.wikipedia.org.
+\newblock \url{https://en.wikipedia.org/wiki/{T}opographic\_wetness\_index}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{wikipediaVegetationIndex}
+{V}egetation index - {W}ikipedia --- en.wikipedia.org.
+\newblock \url{https://en.wikipedia.org/wiki/{V}egetation\_index}.
+\newblock [Accessed 24-05-2026].
+
+\bibitem{xgboostXGBoostDocumentation}
+{X}{G}{B}oost {D}ocumentation \&\#x2014; xgboost 3.2.0 documentation ---
+  xgboost.readthedocs.io.
+\newblock \url{https://xgboost.readthedocs.io/en/release\_2.1.0/}.
+\newblock [Accessed 24-05-2026].
+
+\end{thebibliography}

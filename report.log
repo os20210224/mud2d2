@@ -1,0 +1,492 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.5.12)  24 MAY 2026 02:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report
+(./report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language89
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language30). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language30). Reported on input line 108.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-serbian/serbian.ldf
+Language: serbian 2022/09/30 2.2a Serbian Latin support for the Babel system
+Package babel Info: Making " an active character on input line 46.
+\srbl@lettering=\count197
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/sr/babel-serbian.tex
+Package babel Info: Importing font and identification data for serbian
+(babel)             from babel-sr-Latn.ini. Reported on input line 25.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
+)
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen152
+\scratchbox=\box52
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen153
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+
+Overfull \hbox (2.74661pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 ta-la-snim du^^Tzinama u op-se-gu od$ 1\OML/cmm/m/it/12 :\OT1/c
+mr/m/n/12 3\OML/cmm/m/it/12 ^^Vm$
+ []
+
+
+Overfull \hbox (3.22105pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/it/12 po-grap-hy \OT1/cmr/m/n/12 mi-si-ja ima-mo po-dat-ke o nad-
+ []
+
+
+Overfull \hbox (2.26201pt too wide) in paragraph at lines 31--32
+\OT1/cmr/m/n/12 mor-skoj vi-si-ni (ELEV) i to-po-graf-skom
+ []
+
+
+Overfull \hbox (0.4133pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 du-go-ro^^Tcna me-re-nja povr^^Tsinske tem-pe-
+ []
+
+
+Overfull \hbox (16.1249pt too wide) in paragraph at lines 33--34
+\OT1/cmr/m/n/12 ra-tu-re (LST), pro-se^^Tcna du-go-ro^^Tcna \OT1/cmr/m/it/12 Bl
+ack-
+ []
+
+
+Overfull \hbox (4.58142pt too wide) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/12 P - Mehlich-3 extrac-ta-ble Phosp-
+ []
+
+
+Overfull \hbox (0.8499pt too wide) in paragraph at lines 45--45
+[]\OT1/cmr/bx/n/17.28 Priprema po-da-ta-ka 
+ []
+
+
+Overfull \hbox (8.4967pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 nu-me-ri^^Tcke vred-no-sti (Top-so-il $\OMS/cmsy/m/n/12 !$ \OT1
+/cmr/m/n/12 0, Sub-
+ []
+
+[2
+
+]
+Overfull \hbox (4.52576pt too wide) in paragraph at lines 59--60
+\OT1/cmr/m/n/12 ka-ko bi vi-de-li da li kom-bi-na-ci-ja-ma atri-
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+
+Overfull \hbox (3.13977pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/12 kon iz-ba-ci-va-nja ko-re-li-sa-nih po-da-ta-ka.[] 
+ []
+
+
+Overfull \hbox (4.73094pt too wide) detected at line 69
+\OML/cmm/m/it/12 MCRMSE \OT1/cmr/m/n/12 = [] [] []
+ []
+
+
+Overfull \hbox (6.02762pt too wide) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/12 Svaki mo-del smo tre-ni-ra-li kroz \OT1/cmr/m/it/12 Grid
+ []
+
+[3]
+Overfull \hbox (47.47615pt too wide) in paragraph at lines 90--110
+ [][] 
+ []
+
+
+Package caption Warning: \setcaptiontype
+(caption)                outside box or environment on input line 112.
+See the caption package documentation for explanation.
+
+[4
+
+]
+<photos/results1.jpg, id=28, 963.6pt x 73.77562pt>
+File: photos/results1.jpg Graphic file (type jpg)
+<use photos/results1.jpg>
+Package pdftex.def Info: photos/results1.jpg  used on input line 125.
+(pdftex.def)             Requested size: 350.99762pt x 26.87326pt.
+<photos/results2.jpg, id=29, 770.88pt x 95.75775pt>
+File: photos/results2.jpg Graphic file (type jpg)
+<use photos/results2.jpg>
+Package pdftex.def Info: photos/results2.jpg  used on input line 131.
+(pdftex.def)             Requested size: 350.99762pt x 43.60052pt.
+ [5 <./photos/results1.jpg> <./photos/results2.jpg>] (./report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/10 Africa So-il In-for-ma-ti-on Ser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 vi-ce (Af-SIS) --- isric.org.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmtt/m/n/10 https : / / isric . org / projects /
+ []
+
+
+Overfull \hbox (30.45663pt too wide) in paragraph at lines 4--8
+\OT1/cmtt/m/n/10 africa-[]soil-[]information-[]service-[]afsis$\OT1/cmr/m/n/10 
+.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+[]\OT1/cmr/m/n/10 Africa So-il Pro-per-ty Pre-dic-ti-on
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 10--13
+\OT1/cmr/m/n/10 Chal-len-ge --- kag-gle.com.  $\OT1/cmtt/m/n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+\OT1/cmtt/m/n/10 / / www . kaggle . com / competitions /
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 15--19
+\OT1/cmr/m/n/10 1.8.0 do-cu-men-ta-ti-on - skle-arn ---
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+[]\OT1/cmr/m/n/10 Infrared spec-tro-sco-py - Wi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+\OT1/cmr/m/n/10 ki-pe-dia --- en.wikipedia.org.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+\OT1/cmtt/m/n/10 https : / / modis . gsfc . nasa . gov/$\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+\OT1/cmr/m/n/10 30m --- por-tal.opentopography.org.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+\OT1/cmtt/m/n/10 https : / / portal . opentopography .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+\OT1/cmtt/m/n/10 org / raster ? opentopo{I}{D} =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--36
+\OT1/cmtt/m/n/10 {O}{T}{S}{R}{T}{M} . 082015 . 4326 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+[]\OT1/cmr/m/n/10 Reflectance In-fra-red (FT-IR)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmr/m/n/10 Spec-tro-sco-py --- bru-ker.com.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 https : / / www . bruker . com / en /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 products-[]and-[]solutions /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 infrared-[]and-[]raman /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 ft-[]ir-[]routine-[]spectrometer /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 what-[]is-[]ft-[]ir-[]spectroscopy /
+ []
+
+
+Overfull \hbox (10.92899pt too wide) in paragraph at lines 38--42
+\OT1/cmtt/m/n/10 reflectance-[]infrared-[]spectroscopy .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+[]\OT1/cmr/m/n/10 Shuttle Ra-dar To-po-grap-hy Mis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+\OT1/cmr/m/n/10 si-on (SRTM) | NA-SA Earth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+\OT1/cmr/m/n/10 da-ta --- earth-da-ta.nasa.gov.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
+\OT1/cmtt/m/n/10 https : / / www . earthdata . nasa . gov /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+[]\OT1/cmr/m/n/10 Topographic wet-ness in-dex -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+\OT1/cmr/m/n/10 Wi-ki-pe-dia --- en.wikipedia.org.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+\OT1/cmtt/m/n/10 https : / / en . wikipedia . org / wiki /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--53
+\OT1/cmtt/m/n/10 {T}opographic \ _wetness \ _index$\OT1/cmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+[]\OT1/cmr/m/n/10 Vegetation in-dex - Wi-ki-pe-dia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+\OT1/cmr/m/n/10 --- en.wikipedia.org.  $\OT1/cmtt/m/n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+\OT1/cmtt/m/n/10 / / en . wikipedia . org / wiki /
+ []
+
+
+Underfull \hbox (badness 6625) in paragraph at lines 55--58
+\OT1/cmtt/m/n/10 {V}egetation \ _index$\OT1/cmr/m/n/10 .  [Ac-ces-sed
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 60--64
+[]\OT1/cmr/m/n/10 XGBoost Do-cu-men-ta-ti-on &#x2014;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+\OT1/cmr/m/n/10 xg-bo-ost 3.2.0 do-cu-men-ta-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+\OT1/cmr/m/n/10 on --- xg-bo-ost.readthedocs.io.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
+\OT1/cmtt/m/n/10 https : / / xgboost . readthedocs .
+ []
+
+) [6
+
+] (./report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3967 strings out of 474222
+ 70572 string characters out of 5748733
+ 1942975 words of memory out of 5000000
+ 26217 multiletter control sequences out of 15000+600000
+ 564435 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,354b,284s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/tipmroblepop/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1
+200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on report.pdf (6 pages, 210508 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
