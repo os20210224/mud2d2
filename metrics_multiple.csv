@@ -1,3 +1,10 @@
 model,MCRMSE
 knn_multi,0.5330502307031515
 knn_multi_clipped,0.5320347873605555
+knn_multi_bez_korelacija,0.6488063475048892
+lin_reg_multi,0.723304090844857
+lin_reg_multi_clipped,0.862346800344957
+lin_reg_multi_bez_korelacija,0.7628467874576359
+tree_multi,0.7212997299228847
+tree_multi_clipped,0.7266971161233039
+tree_multi_bez_korelacija,0.7106908706764448
