@@ -1,0 +1,10 @@
+model,MCRMSE
+knn_regressor_chain,0.5327755620849182
+knn_regressor_chain_clipped,0.5317965419197803
+knn_regressor_chain_bez_korelacija,0.6438185764877664
+lin_reg_regressor_chain,0.723304090844107
+lin_reg_regressor_chain_clipped,0.8623468003458286
+lin_reg_regressor_chain_bez_korelacija,0.7628467874576358
+tree_regressor_chain,0.6758993354985978
+tree_regressor_chain_clipped,0.6549045856677145
+tree_regressor_chain_bez_korelacija,0.7683701421127218
