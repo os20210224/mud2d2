@@ -2,9 +2,9 @@ model,MCRMSE
 knn_multi,0.5330502307031515
 knn_multi_clipped,0.5320347873605555
 knn_multi_bez_korelacija,0.6488063475048892
-random_forest_multi,0.5687284557658259
-random_forest_multi_clipped,0.5594127728521754
-random_forest_multi_bez_korelacija,0.6139218852802328
+random_forest_multi,0.5843521374184066
+random_forest_multi_clipped,0.5588021624665551
+random_forest_multi_bez_korelacija,0.6414646705102836
 lin_reg_multi,0.723304090844857
 lin_reg_multi_clipped,0.862346800344957
 lin_reg_multi_bez_korelacija,0.7628467874576359
